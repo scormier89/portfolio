@@ -1,47 +1,52 @@
-// TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Armwrestling Tournament Bracket App',
+    subtitle: 'Web-based tournament management system',
+    image: '/images/projects/armbracket.jpg', // Placeholder
+    date: '2024',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'A React & Azure web app for double-elimination tournament management. '
+      + 'Includes real-time bracket updates, admin tools, and authentication.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Garden Companion App',
+    subtitle: 'React + Ionic mobile gardening tracker',
+    image: '/images/projects/gardenapp.jpg', // Placeholder
+    date: '2024-Present',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'A React & Ionic mobile app to log plant growth, weather conditions, and soil quality. '
+      + 'Features reminders, historical logs, and Firebase sync.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'WTW Unify - Workflow Visualization',
+    subtitle: 'Enterprise Risk & Actuarial Workflow Platform',
+    image: '/images/projects/unify.jpg', // Placeholder, replace if needed
+    date: '2022-12',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Developed a GoJS-based workflow visualization tool as an Angular NPM package. '
+      + 'Enabled seamless integration, automation, and governance for financial modeling. '
+      + 'Developed while employed at WTW. All rights belong to WTW.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'Medavie Mobile App',
+    subtitle: 'Hybrid mobile app for Medavie Blue Cross',
+    image: '/images/projects/medavieapp.jpg', // Placeholder
+    link: 'https://www.medaviebc.ca/en/members/medavie-blue-cross-mobile-app',
+    date: '2013-06',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Contributed to the original Medavie Mobile App for iOS & Android. '
+      + 'Core features and architecture remain in use today. '
+      + 'Developed while employed at Medavie Blue Cross. All rights belong to Medavie Blue Cross.',
+  },
+  {
+    title: 'BrovadaOne - Policy Data Transformation',
+    subtitle: 'Insurance Data Standardization Engine',
+    image: '/images/projects/brovadaone.jpg', // Placeholder
+    date: '2013-2017',
+    desc:
+      'Worked on XSL/XSLT transformations to convert broker policy data into CSIO (ACORD) formats. '
+      + 'Developed a Node.js UI for rule management & version control. '
+      + 'Developed while employed at Brovada (WTW). All rights belong to WTW.',
   },
 ];
 

@@ -1,92 +1,129 @@
-# Intro
+# About Me
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
+I’m a full-stack developer with 13+ years of experience in Angular, React, C#, Java (J2EE, Spring, JSF, Hibernate), and Azure. My expertise lies in building scalable enterprise applications, workflow visualization tools, cloud infrastructures, and automation pipelines.
 
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+I’ve worked extensively in enterprise software development, primarily in the insurance sector, designing and maintaining UI-heavy applications, backend systems, and DevOps architectures. My background includes front-end development, workflow visualization (GoJS), Kubernetes, and data transformation (XSL/XSLT, JSON, XML).
 
-# Some History
+---
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand-new Packard Bell. It took years for me to send my first email.
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it, and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without my parents' permission). Over the next few years, I built several more, including one of the first audio modulated coils and one of the first DRSSTCs.
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-- 14 - 17, I played a lot of video games. My favorites included Counter-Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-- At 18, in the summer before college, my friends and I started playing [Muggle Quidditch](<https://en.wikipedia.org/wiki/Quidditch_(sport)>). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association), including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on Facebook.
-- At 19, I took my first graduate course and published my first academic paper.
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
+# Career Journey
 
-Ask me in person for other stories that I'm afraid to share with the internet.
+- 1997-98: First exposure to computers, exploring software and basic automation.
+- High School (Intro to Coding): Started writing batch scripts to automate tasks and play pranks, sparking an interest in how software controlled systems.
+- High School (Programming Courses): Found programming intuitive and easy, consistently earning top grades with minimal effort.
+- University & College: Initially pursued kinesiology, but quickly switched to Web App Development, driven by a desire to understand and build systems from the ground up.
+- Brovada (Insurance Software & Data Transformation)  
+  - Began with maintenance and bug fixes for Pembridge.  
+  - Later took on a key role in a broker data transformation project, creating a custom markup language that allowed brokers to define transformation rules.  
+  - Led the POC phase, then focused on the UI side, building a vanilla HTML/jQuery frontend with a Node.js backend for editing transformation files and version history management.  
+  - Worked on BrovadaOne, maintaining XSL/XSLT transformations that converted broker policy data into CSIO (ACORD) formats before routing them to insurers.  
+  - Acquisition: Brovada was acquired by Towers Watson (WTW), where I continued working on BrovadaOne.
+- WTW (Workflow Visualization, Kubernetes & Helm)  
+  - Created an NPM package for the Unify Team – A custom Angular wrapper around GoJS to provide workflow visualization and editing capabilities for WTW’s customers.  
+  - Initially worked with a 3-person team (Canada), but took over full ownership after a few months.  
+  - Designed the package to be modular and reusable, allowing other teams to leverage it across WTW’s tech stack.  
+  - Fully tested using Cypress (e2e tests) and Karma (unit tests).  
+  - Built a mock parent app for testing, ensuring smooth integration, maintainability, and UI/UX consistency.  
+  - Maintained & added REST endpoints in C#, getting hands-on backend experience.  
+  - 5-year-long project, evolving through multiple iterations and feature expansions post-MVP release.  
+  - Became an expert in GoJS and gained deep proficiency in Angular through this project.  
+  - Cloud Automation: Tasked with simplifying BrovadaOne's deployment.  
+  - Started with a Dockerized version, then expanded to a clusterized release on AKS (Azure Kubernetes Service).  
+  - Discovered Helm and implemented Helm charts to automate and manage deployments more efficiently.
 
-# I Like
+---
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+# Skills & Technologies
 
-# Travel / Geography
+#### Frontend Development
+- Angular (5+ years)
+- React, Vue.js
+- JSF, IceFaces, jQuery, Vanilla JS
+- GoJS (Advanced)
 
-- I am originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York City.
-- I've been to approximately 50 countries, some of which I have forgotten, many of which I would like to revisit.
-- In 2016, I visited Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited Canada, England, France, and Switzerland.
-- In 2020, I traveled barely 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I continued remodeling an apartment.
-- In 2022, I switched jobs and visited the UK, France, Greece, Belgium, Luxembourg, Germany, and Kenya.
-- In 2023, I visited France, the UK, Ireland, and Rwanda.
-- I am an Oregon Trail II enthusiast.
+#### Backend Development
+- Java (J2EE, Spring, EJBs, Hibernate)
+- C#
+- Node.js
+- REST API development
+
+#### Cloud & DevOps
+- Azure (Certified)
+- Kubernetes (AKS), Helm, Docker
+- CI/CD automation (Jenkins, GitOps)
+
+#### Data Transformation & Integration
+- XSL/XSLT, JSON, XML
+- Proprietary markup languages
+- Data mapping for CSIO/ACORD formats
+
+#### Databases & Storage
+- MS SQL, MySQL, Oracle, MongoDb, SQLite
+
+#### Testing & Automation
+- Cypress (e2e)
+- Karma (unit)
+- JUnit, Jest, Jenkins
+
+---
+
+# Industry Experience
+
+- Insurance Software Development (Brovada & Medavie) – Built and maintained enterprise applications, working on policy data transformation, UI development, and backend automation.
+- Enterprise Workflow & Visualization (WTW Unify Team) – Developed a custom GoJS-based workflow visualization tool, packaged as an Angular NPM module, fully tested and maintained over 5 years.
+- Cloud & DevOps Automation – Designed Azure-based solutions, managing Kubernetes deployments, Helm scripting, and automated CI/CD pipelines.
+- Backend & Database Optimization – Worked extensively with Spring, Hibernate, EJBs, PL/SQL, and REST APIs, optimizing data handling and performance.
+- CI/CD & Deployment Pipelines – Implemented Jenkins-based automation, improving deployment speed and reliability.
+
+---
+
+# Certifications & Professional Development
+
+- Microsoft Certified: Azure Fundamentals
+- Extensive experience in Java Enterprise Development (J2EE, JSF, Hibernate, Spring, EJBs, XSL/XSLT)
+- Kubernetes & Helm automation experience in an enterprise setting
+- GoJS expert & Angular NPM package developer
+- Ongoing learning in cloud-native applications, security, and AI-assisted development
+
+---
+
+# Travel & Experiences
+
+I’ve worked with teams across different regions and had the opportunity to travel to:
+
+🇨🇦 Canada  
+🇨🇺 Cuba  
+🇬🇧 UK  
+🇮🇹 Italy  
+🇺🇸 US (Florida, Maine, Virginia/DC, New Hampshire, Massachusetts)  
+🇲🇽 Mexico  
+🇫🇷 France  
+
+---
 
 # Fun Facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a skateboard or [bicycle](https://www.citibikenyc.com/) every single day.
-- I stack-rank coffee shops, restaurants, and every dog I see in New York.
-- I added this page because many people complained that my site was just my resume.
+- Created an enterprise-grade workflow tool that was fully tested and used across multiple teams.
+- Took over and managed a 5-year project solo, leading feature expansions and major updates.
+- Built my own cloud automation workflows, making deployments easier for engineering teams.
+- Became an expert in GoJS and Helm scripting through real-world enterprise development.
+- Started in tech by writing batch scripts to prank friends in high school.
+- Originally pursued kinesiology before realizing software development was my true calling.
+- Once took a beer brewing hobby all the way to launching a commercial brewery, selling to bars and attending festivals.
 
-# I Dream Of
+---
 
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
-- Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
-- You not checking the commit history for earlier drafts of this file.
+# Future Goals
 
-# Websites from People I Admire
+- Continue building and optimizing scalable cloud applications.
+- Stay ahead in modern Java frameworks, Kubernetes, and cloud automation.
+- Improve CI/CD efficiency and infrastructure security in DevOps environments.
+- Keep refining technical leadership and mentoring in enterprise software.
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Ed Kearney](https://edkearney.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Judy Suh](https://www.judysuh.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com/)
+---
 
-If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.
+# Final Thoughts
+
+I take a problem-solving approach to everything I do—whether in software development, workflow automation, cloud computing, or system architecture. My experience spans Java enterprise applications, Kubernetes-based deployments, DevOps, workflow visualization, and cloud infrastructure, bringing a full-stack, scalable mindset to every project.
+
+If you’re working on enterprise software, cloud architecture, or workflow automation, feel free to connect.

@@ -25,12 +25,12 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/Stephaneldangelo',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
+    link: 'https://angel.co/Stephane-d-angelo',
     label: 'Angel List',
     icon: faAngellist,
   },
@@ -40,7 +40,7 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:Stephane.l.dangelo@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

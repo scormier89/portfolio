@@ -12,9 +12,9 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Stephane Cormier</h2>
         <p>
-          <a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a>
+          <a href="mailto:Stephane@scormier.com">Stephane@scormier.com</a>
         </p>
       </header>
     </section>
@@ -22,14 +22,24 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Michael. I am a{' '}
-        <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC
-        alumnus, and the co-founder and CTO of{' '}
-        <a href="https://promptfoo.dev">Promptfoo</a>. Previously, I
-        was VP of Engineering at <a href="https://usesmileid.com">SmileID</a>,
-        co-founder and CTO of <a href="https://arthena.com">Arthena</a>, and
-        co-founded <a href="https://matroid.com">Matroid</a>.
+        Hi, I&apos;m Stephane. I am a{' '}
+        <a href="https://www.linkedin.com/in/your-profile">full-stack software engineer </a>
+        with over 13 years of experience in{' '}
+        <a href="https://angular.io/">Angular</a>,{' '}
+        <a href="https://react.dev/">React</a>,{' '}
+        <a href="https://dotnet.microsoft.com/">C#</a>, and{' '}
+        <a href="https://www.java.com/">Java (J2EE, Spring, Hibernate)</a>.
+        I specialize in building{' '}
+        <a href="https://azure.microsoft.com/en-us/">Azure cloud applications</a>,{' '}
+        architecting enterprise-grade solutions, and optimizing CI/CD pipelines.
+        Previously, I worked on large-scale insurance software at{' '}
+        <a href="https://www.medaviebc.ca/en/">Medavie</a> and{' '}
+        <a href="https://www.wtwco.com/">WTW</a>, where I developed{' '}
+        <a href="https://gojs.net/">workflow visualization tools with GoJS</a>,
+        designed custom data transformation engines, and automated{' '}
+        <a href="https://kubernetes.io/">Kubernetes deployments</a> with Helm.
       </p>
+
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? (
@@ -48,7 +58,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
+        &copy; Stephane Cormier <Link to="/">scormier.com</Link>.
       </p>
     </section>
   </section>

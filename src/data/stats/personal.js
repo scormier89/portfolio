@@ -5,7 +5,7 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1990-02-05T09:24:00');
+    const birthTime = new Date('1989-01-30T00:00:00'); // Your real birthdate
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -27,13 +27,13 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    value: 7, // Cuba, UK, Italy, US, Mexico, France, Canada
+    link: 'https://www.google.com/maps', // Placeholder, can be replaced with a custom map
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'Memramcook, NB', // Your real location
   },
 ];
 
