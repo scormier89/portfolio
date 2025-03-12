@@ -1,22 +1,5 @@
+/* eslint-disable spaced-comment */
 const data = [
-  {
-    title: 'Armwrestling Tournament Bracket App',
-    subtitle: 'Web-based tournament management system',
-    image: '/images/projects/armbracket.jpg', // Placeholder
-    date: '2024',
-    desc:
-      'A VueJS & Azure web app for tournament management. '
-      + 'Includes real-time bracket updates, admin tools, and authentication.',
-  },
-  {
-    title: 'Garden Companion App',
-    subtitle: 'React + Ionic mobile gardening tracker',
-    image: '/images/projects/gardenapp.jpg', // Placeholder
-    date: '2024-Present',
-    desc:
-      'A React & Ionic mobile app to log plant growth, weather conditions, and soil quality. '
-      + 'Features reminders, historical logs, and Firebase sync.',
-  },
   {
     title: 'WTW Unify - Workflow Visualization',
     subtitle: 'Enterprise Risk & Actuarial Workflow Platform',
@@ -39,6 +22,24 @@ const data = [
       + 'Developed while employed at Medavie Blue Cross. All rights belong to Medavie Blue Cross.',
   },
   {
+    title: 'Armwrestling Tournament Bracket App',
+    subtitle: 'Web-based tournament management system',
+    image: '/images/projects/armbracket.jpg', // Placeholder
+    date: '2024',
+    desc:
+      'A VueJS & Azure web app for tournament management. '
+      + 'Includes real-time bracket updates, admin tools, and authentication.',
+  },
+  {
+    title: 'Garden Companion App',
+    subtitle: 'React + Ionic mobile gardening tracker',
+    image: '/images/projects/gardenapp.jpg', // Placeholder
+    date: '2024-Present',
+    desc:
+      'A React & Ionic mobile app to log plant growth, weather conditions, and soil quality. '
+      + 'Features reminders, historical logs, and Firebase sync.',
+  },
+  /* {
     title: 'BrovadaOne - Policy Data Transformation',
     subtitle: 'Insurance Data Standardization Engine',
     image: '/images/projects/brovadaone.jpg', // Placeholder
@@ -47,7 +48,7 @@ const data = [
       'Worked on XSL/XSLT transformations to convert broker policy data into CSIO (ACORD) formats. '
       + 'Developed a Node.js UI for rule management & version control. '
       + 'Developed while employed at Brovada (WTW). All rights belong to WTW.',
-  },
+  },*/
 ];
 
 export default data;
