@@ -5,7 +5,7 @@ const data = [
     image: '/images/projects/armbracket.jpg', // Placeholder
     date: '2024',
     desc:
-      'A React & Azure web app for double-elimination tournament management. '
+      'A VueJS & Azure web app for tournament management. '
       + 'Includes real-time bracket updates, admin tools, and authentication.',
   },
   {
