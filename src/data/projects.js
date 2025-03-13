@@ -4,6 +4,7 @@ const data = [
     title: 'WTW Unify - Workflow Visualization',
     subtitle: 'Enterprise Risk & Actuarial Workflow Platform',
     image: '/images/projects/unify.jpg', // Placeholder, replace if needed
+    link: 'https://appsource.microsoft.com/en-in/product/web-apps/towerswatsonsoftwarelimited.willistowerswatson_unify?tab=Overview',
     date: '2022-12',
     desc:
       'Developed a GoJS-based workflow visualization tool as an Angular NPM package. '
