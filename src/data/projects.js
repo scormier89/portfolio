@@ -26,7 +26,7 @@ const data = [
     title: 'Armwrestling Tournament Bracket App',
     subtitle: 'Web-based tournament management system',
     image: '/images/projects/underdevelopment.png', // Placeholder
-    date: '2024',
+    date: '2025-04',
     desc:
       'A VueJS & Azure web app for tournament management. '
       + 'Includes real-time bracket updates, admin tools, and authentication.',
@@ -35,7 +35,7 @@ const data = [
     title: 'Garden Companion App',
     subtitle: 'React + Ionic mobile gardening tracker',
     image: '/images/projects/underdevelopment.png', // Placeholder
-    date: '2024-Present',
+    date: '2026',
     desc:
       'A React & Ionic mobile app to log plant growth, weather conditions, and soil quality. '
       + 'Features reminders, historical logs, and Firebase sync.',
