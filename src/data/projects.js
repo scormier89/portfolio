@@ -7,9 +7,7 @@ const data = [
     link: 'https://appsource.microsoft.com/en-in/product/web-apps/towerswatsonsoftwarelimited.willistowerswatson_unify?tab=Overview',
     date: '2022-12',
     desc:
-      'Developed a GoJS-based workflow visualization tool as an Angular NPM package. '
-      + 'Enabled seamless integration, automation, and governance for financial modeling. '
-      + 'Developed while employed at WTW. All rights belong to WTW.',
+      'Developed a custom workflow visualization tool as an Angular NPM package, enabling seamless integration, automation, and governance for financial modeling. My contributions focused on improving usability and system integration. Developed while employed at WTW. This project is proprietary, and all rights belong to WTW.',
   },
   {
     title: 'Medavie Mobile App',
@@ -18,9 +16,7 @@ const data = [
     link: 'https://www.medaviebc.ca/en/members/medavie-blue-cross-mobile-app',
     date: '2013-06',
     desc:
-      'Contributed to the original Medavie Mobile App for iOS & Android. '
-      + 'Core features and architecture remain in use today. '
-      + 'Developed while employed at Medavie Blue Cross. All rights belong to Medavie Blue Cross.',
+      'Contributed to the original Medavie Mobile App for iOS & Android, helping establish core features and architecture that remain in use today. My role involved backend integrations and optimizing the user experience. Developed while employed at Medavie Blue Cross. This project is proprietary, and all rights belong to Medavie Blue Cross.',
   },
   {
     title: 'Armwrestling Tournament Bracket App',
