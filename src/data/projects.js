@@ -1,6 +1,15 @@
 /* eslint-disable spaced-comment */
 const data = [
   {
+    title: 'NB Armwrestling Association Website',
+    subtitle: 'Static website for the NB Armwrestling Association',
+    image: '/images/projects/nbarmwrestling.png', // Placeholder, replace if needed
+    link: 'https://nbarmwrestling.ca',
+    date: '2025-03',
+    desc:
+      'Developed a semi-static website for the NB Armwrestling Association for which I\'m the media / content creator to help and grow a local sport I\'m passionate about. Simple Vue SPA deployed to Azure Static Web Apps.',
+  },
+  {
     title: 'WTW Unify - Workflow Visualization',
     subtitle: 'Enterprise Risk & Actuarial Workflow Platform',
     image: '/images/projects/unify.jpg', // Placeholder, replace if needed
