@@ -5,6 +5,13 @@ import ContactIcons from '../Contact/ContactIcons';
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
+function getYearsOfExperience() {
+  const startDate = new Date('2010-06-15'); // Replace with your actual start date
+  const today = new Date();
+  const yearsOfExperience = today.getFullYear() - startDate.getFullYear();
+  return yearsOfExperience;
+}
+
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
@@ -24,8 +31,9 @@ const SideBar = () => (
       <p>
         Hi, I&apos;m Stephane. I am a{' '}
         <a href="https://www.linkedin.com/in/your-profile">full-stack software engineer </a>
-        with over 13 years of experience in{' '}
+        with over {getYearsOfExperience()} years of experience in{' '}
         <a href="https://angular.io/">Angular</a>,{' '}
+        <a href="https://vuejs.org/">VueJS</a>,{' '}
         <a href="https://react.dev/">React</a>,{' '}
         <a href="https://dotnet.microsoft.com/">C#</a>, and{' '}
         <a href="https://www.java.com/">Java (J2EE, Spring, Hibernate)</a>.

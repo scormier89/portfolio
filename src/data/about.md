@@ -1,6 +1,6 @@
 # About Me
 
-I’m a full-stack developer with 13+ years of experience in Angular, React, C#, Java (J2EE, Spring, JSF, Hibernate), and Azure. My expertise lies in building scalable enterprise applications, workflow visualization tools, cloud infrastructures, and automation pipelines.
+I’m a full-stack developer with 15+ years of experience in Angular, Vue, React, C#, Java (J2EE, Spring, JSF, Hibernate), and Azure. My expertise lies in building scalable enterprise applications, workflow visualization tools, cloud infrastructures, and automation pipelines.
 
 I’ve worked extensively in enterprise software development, primarily in the insurance sector, designing and maintaining UI-heavy applications, backend systems, and DevOps architectures. My background includes front-end development, workflow visualization (GoJS), Kubernetes, and data transformation (XSL/XSLT, JSON, XML).
 
