@@ -13,11 +13,11 @@
  */
 const work = [
   {
-    name: 'WTW (formerly Brovada)',
+    name: 'WTW',
     position: 'Senior Software Engineer',
     url: 'https://www.wtwco.com/',
-    startDate: '2017-04-01',
-    endDate: '2022-08-01',
+    startDate: '2014-10-01',
+    endDate: '2024-01-05',
     summary: `Led multiple enterprise software projects in the insurance sector, focusing on 
     workflow automation, UI-heavy applications, and cloud infrastructure.`,
     highlights: [
@@ -30,11 +30,11 @@ const work = [
     ],
   },
   {
-    name: 'Brovada (pre-WTW acquisition)',
+    name: 'Brovada',
     position: 'Software Developer',
     url: 'https://www.brovada.com', // Not active anymore, but still relevant historically
     startDate: '2013-09-01',
-    endDate: '2017-04-01',
+    endDate: '2014-10-01',
     summary: 'Developed and maintained insurance software solutions focused on broker-to-insurer data transformation.',
     highlights: [
       'Started with maintenance and bug-fixing for Pembridge’s insurance software.',
@@ -47,7 +47,7 @@ const work = [
     name: 'Medavie Blue Cross',
     position: 'Software Developer',
     url: 'https://www.medaviebc.ca/en/',
-    startDate: '2011-07-01',
+    startDate: '2010-05-15',
     endDate: '2013-09-01',
     summary: 'Developed and maintained insurance software applications, focusing on hybrid mobile apps and UI-heavy enterprise applications.',
     highlights: [
