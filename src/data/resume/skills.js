@@ -31,7 +31,7 @@ const skills = [
   },
   {
     title: 'Vue.js',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'JavaScript'],
   },
   {
@@ -76,6 +76,11 @@ const skills = [
   },
   {
     title: 'Kubernetes (AKS)',
+    competency: 4,
+    category: ['Cloud', 'DevOps'],
+  },
+  {
+    title: 'Azure Cloud Services (App Services, Functions, Storage)',
     competency: 4,
     category: ['Cloud', 'DevOps'],
   },

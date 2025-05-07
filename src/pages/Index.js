@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -29,14 +30,13 @@ const Index = () => (
           </p>
         </div>
       </header>
+      <p><strong>Building Scalable Systems. Shaping Cloud Architecture. Delivering Production-Ready Code.</strong></p>
       <p>
-        Hi, I&apos;m <strong>Stephane Cormier</strong>, a senior software engineer with
-        over {getYearsOfExperience()} years of experience in
-        <strong> JavaScript, TypeScript, Angular, React, and cloud architecture</strong>.
+        I’m Stephane Cormier, a cloud-focused senior full-stack engineer with {getYearsOfExperience()} years of experience.
+        From modernizing enterprise frontends to deploying resilient microservices on Kubernetes, I build solutions that scale — fast, secure, and production-ready.
       </p>
       <p>
-        Explore my <Link to="/resume">resume</Link>, check out my <Link to="/projects">projects</Link>, or
-        <Link to="/contact"> contact</Link> me for collaboration opportunities.
+        Dive into my <Link to="/resume">resume</Link>, explore real-world <Link to="/projects">projects</Link>, or <Link to="/contact"> connect</Link> for collaboration.
       </p>
       <p>
         {' '}
